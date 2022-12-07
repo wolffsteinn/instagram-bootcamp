@@ -2,6 +2,11 @@
 
 https://bc.rocketacademy.co/2-full-stack/2.e-exercises/2.e.1-instagram-chat
 
+### What this tutorial is about
+
+To understand how to use Firebase Realtime Database and how to structure chat data in a NoSQL JSON database.
+This is a barebones instagram clone that allows real-time chat between users.
+
 ## Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). In the project directory, you can run:
